@@ -7,6 +7,9 @@ Useful links:
 
 * https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-22-04
 
+* https://medium.com/swlh/how-to-install-rspec-in-your-ruby-on-rails-backend-e726278e59da
+
+
 To install dependencies, run:
 ```
     bundle
