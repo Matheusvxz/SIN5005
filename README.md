@@ -1,10 +1,10 @@
 # NOME DO PROJETO
 
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/Matheusvxz/SIN5005/ruby.yml)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Matheusvxz/SIN5005/main)
-![Badge](https://img.shields.io/github/license/Matheusvxz/SIN5005)
-![Code Climate coverage](https://img.shields.io/codeclimate/coverage/Matheusvxz/SIN5005)
+[![Maintainability](https://api.codeclimate.com/v1/badges/a8fbf3d36b9a8378bf17/maintainability)](https://codeclimate.com/github/Matheusvxz/SIN5005/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a8fbf3d36b9a8378bf17/test_coverage)](https://codeclimate.com/github/Matheusvxz/SIN5005/test_coverage)
 ![Coveralls branch](https://img.shields.io/coverallsCoverage/github/Matheusvxz/SIN5005)
-
 
 
 Projeto desenvolvido seguindo as boas práticas de engenharia de software para a disciplina SIN5005 do PPgSi -EACH/USP.
