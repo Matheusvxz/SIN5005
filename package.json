@@ -1,0 +1,12 @@
+{
+  "name": "eng-software",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Matheusvxz/SIN5005.git",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-browser-runner": "^2.2.0",
+    "jasmine-core": "^5.1.1"
+  }
+}
