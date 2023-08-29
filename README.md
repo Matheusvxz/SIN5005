@@ -31,25 +31,23 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+Instalar dependências
 
 ```
-Dar exemplos
+bundle install
 ```
 
-E repita:
+Rodar aplicação
 
 ```
-Até finalizar
+rails s
 ```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
 
 ## ⚙️ Executando os testes
 
-Explicar como executar os testes automatizados para este sistema.
+```
+rails test
+```
 
 ### 🔩 Analise os testes de ponta a ponta
 
@@ -69,10 +67,16 @@ Dar exemplos
 
 ## 📦 Implantação
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+Implantado no Heroku, utilizando instância Dyno
+
+https://sin5005-group-one-d5014bee2968.herokuapp.com
+
+Checar saude com 
+
+```
+/status
+```
 
 ## 🛠️ Construído com
-
-Mencione as ferramentas que você usou para criar seu projeto
 
 * [Ruby on Rails](https://api.rubyonrails.org/) - Framework web utilizado
