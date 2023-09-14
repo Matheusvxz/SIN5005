@@ -8,6 +8,7 @@
 
 
 Projeto desenvolvido seguindo as boas práticas de engenharia de software para a disciplina SIN5005 do PPgSi -EACH/USP.
+This project will involve creating a Ruby on Rails script that can scan a network to discover devices, their IP addresses, and open ports.
 
 ## 🚀 Aplicação
 
